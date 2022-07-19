@@ -1,0 +1,16 @@
+2022-07-19 00:03:11,996 INFO [root] [api_pm_zmt.py (__init__:10] - 正在初始化接口
+2022-07-19 00:03:12,017 INFO [root] [api_pm_zmt.py (api_login:17] - 正在请求接口：mobile：13911111111,code246810
+2022-07-19 00:03:12,017 INFO [root] [api_pm_zmt.py (api_login:21] - 正在返回接口
+2022-07-19 00:03:12,142 INFO [root] [get_tools.py (get_token:15] - 正在获取Authorization
+2022-07-19 00:03:12,142 INFO [root] [get_tools.py (get_token:18] - 获取后的headers为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODk2MDk3OTEsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.tRZLBLxAMzg_D2EjBVlC3bvdxyP18Z-cx3vLKIASXGc'}
+2022-07-19 00:03:12,142 INFO [root] [get_tools.py (implement_accsert:23] - 正在进行断言
+2022-07-19 00:03:12,302 INFO [root] [test_api_zmt.py (test02_api_artical:35] - 获取文章id为：1549062234292879360
+2022-07-19 00:03:12,302 INFO [root] [get_tools.py (implement_accsert:23] - 正在进行断言
+2022-07-19 23:05:27,291 INFO [root] [api_pm_zmt.py (__init__:10] - 正在初始化接口
+2022-07-19 23:05:27,322 INFO [root] [api_pm_zmt.py (api_login:17] - 正在请求接口：mobile：13911111111,code246810
+2022-07-19 23:05:27,322 INFO [root] [api_pm_zmt.py (api_login:21] - 正在返回接口
+2022-07-19 23:05:27,514 INFO [root] [get_tools.py (get_token:15] - 正在获取Authorization
+2022-07-19 23:05:27,514 INFO [root] [get_tools.py (get_token:18] - 获取后的headers为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODk2OTI3MjYsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.Jogfrn1af2f2rJTrpdV3hgLw7EWoK0rAngoyPZ5E654'}
+2022-07-19 23:05:27,514 INFO [root] [get_tools.py (implement_accsert:23] - 正在进行断言
+2022-07-19 23:05:27,662 INFO [root] [test_api_zmt.py (test02_api_artical:35] - 获取文章id为：1549410089654288384
+2022-07-19 23:05:27,662 INFO [root] [get_tools.py (implement_accsert:23] - 正在进行断言

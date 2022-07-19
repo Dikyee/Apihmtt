@@ -1,0 +1,6 @@
+[32mINFO    [0m root:api_pm_zmt.py:10 正在初始化接口
+[32mINFO    [0m root:api_pm_zmt.py:17 正在请求接口：mobile：13911111111,code246810
+[32mINFO    [0m root:api_pm_zmt.py:21 正在返回接口
+[32mINFO    [0m root:get_tools.py:15 正在获取Authorization
+[32mINFO    [0m root:get_tools.py:18 获取后的headers为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODk2OTI3MjYsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.Jogfrn1af2f2rJTrpdV3hgLw7EWoK0rAngoyPZ5E654'}
+[32mINFO    [0m root:get_tools.py:23 正在进行断言

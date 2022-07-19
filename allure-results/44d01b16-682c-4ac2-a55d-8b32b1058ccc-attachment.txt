@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_api_zmt.py:35 获取文章id为：1549410089654288384
+[32mINFO    [0m root:get_tools.py:23 正在进行断言
